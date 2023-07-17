@@ -1,0 +1,18 @@
+.AddTodoForm {
+	display: flex;
+	flex: 1;
+	margin-top: 24px;
+}
+
+.btn {
+	margin-left: 13px;
+}
+.sortAZ {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+
+.formControl {
+	/* min-width: 100px; */
+}
